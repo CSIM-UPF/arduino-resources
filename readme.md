@@ -7,7 +7,6 @@ Resources for students who wish to learn about Arduino.
 
 - [Arduino IDE](https://www.arduino.cc/en/Main/Software): Download the self-contained software. No experience required.
 - [Arduino extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino): An extension that adds Processing language support to the [VS Code editor](https://code.visualstudio.com/). Experience of integrated development environments (IDE) required.
-- [Fritzing](http://fritzing.org/): Software that allos to move from experimenting with a prototype to building a more permanent circuit.
 
 
 ## Tutorials and Examples
