@@ -12,7 +12,6 @@ Resources for students who wish to learn about Arduino.
 ## Tutorials and Examples
 
 - [Getting started with Arduino](https://www.arduino.cc/en/Guide/HomePage)
-- [Getting started with Fritzing](http://fritzing.org/learning/get-started/)
 - [Connecting Arduino to Max/MSP](http://slab.concordia.ca/2008/arduino/arduino-max/): Tutorial on connecting the two programming languages via `Serial` communication.
 - [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing): Sparkfun's tutorial on connecting the two programming languages via `Serial` communication.
 - [Fast `digitalRead()`, `digitalWrite()` for Arduino](https://www.instructables.com/id/Fast-digitalRead-digitalWrite-for-Arduino/): Article on using lower level commands for time-critical program.
